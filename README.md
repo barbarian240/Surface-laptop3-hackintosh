@@ -9,3 +9,8 @@ working:
 
 notworking:
   touch screen
+  
+  
+  notice:
+   after downloading:  you must uzip resources/audio/audio.zip
+   
