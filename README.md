@@ -12,6 +12,6 @@ notworking:
   
   
   notice:
-   after downloading:  you must unzipthis:
+   after downloading:  you must unzip this:
    resources/audio/audio.zip
    
