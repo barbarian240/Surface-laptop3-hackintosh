@@ -6,3 +6,6 @@ working:
   tuchpad
   keyboard
   sleep
+
+notworking:
+  touch screen
