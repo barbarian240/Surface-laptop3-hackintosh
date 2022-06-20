@@ -11,7 +11,8 @@ working:
   wifi&blueteeth
   tuchpad
   keyboard
-  sleep
+  sleep&wake up
+  camera
 
 notworking:
   touch screen
